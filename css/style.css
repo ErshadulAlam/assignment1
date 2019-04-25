@@ -1,0 +1,26 @@
+
+body{
+    margin-top: 10px;
+    font-style: italic;
+    font-size: large;
+    font-family: monospace;
+}
+table{
+    margin: auto;
+    border-color: #006458;
+    border-collapse: collapse;
+    width: 80%;
+    box-shadow: 4px 4px 4px #aee65f;
+}
+tr{}
+td{
+    background-color: #ddefff;
+    font-size: 23px;
+    padding: 6px;
+}
+th{
+    background-color: wheat;
+    color: red;
+}
+
+
